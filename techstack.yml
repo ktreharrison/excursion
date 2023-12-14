@@ -1,11 +1,11 @@
 repo_name: ktreharrison/excursion
-report_id: dd1223370a5e948eb6b596f313c35c3a
+report_id: 52cb4b79eb8401d7c80d4f637a1c93de
 repo_type: Public
-timestamp: '2023-11-09T13:00:41+00:00'
+timestamp: '2023-12-14T09:27:10+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
-detected_tools_count: 2
+detected_tools_count: 3
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,3 +25,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: Ken Harrison
+  last_updated_on: 2022-01-29 17:38:21.000000000 Z
